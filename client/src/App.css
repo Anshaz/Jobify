@@ -1,0 +1,38 @@
+.job{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+    padding: 20px 0;
+    align-items: center;
+}
+
+.job:hover{
+
+    cursor: pointer;
+    background-color: rgba(27, 5, 252, 0.30);
+}
+
+.job-company{
+
+    padding: 0 30px;
+}
+
+.job-dialog{
+
+    padding: 30px 50px;
+}
+
+body{
+
+    margin: 20px 40px;
+    background-color:rgba(126, 148, 154, 0.25)
+}
+
+.detail-logo{
+
+    height: 30px;
+    float: right;
+
+}
